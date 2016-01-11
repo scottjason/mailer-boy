@@ -1,0 +1,31 @@
+{
+  "name": "mailer-boy",
+  "version": "1.0.0",
+  "description": "send transactional, respsonsive email templates in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scottjason/mailer-boy.git"
+  },
+  "keywords": [
+    "node",
+    "email",
+    "transactional",
+    "responsive",
+    "template",
+    "mailer"
+  ],
+  "author": "Scott Jason <scottleejason@gmail.com> (http://scottleejason.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottjason/mailer-boy/issues"
+  },
+  "homepage": "https://github.com/scottjason/mailer-boy#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "validator": "^4.5.0"
+  }
+}
